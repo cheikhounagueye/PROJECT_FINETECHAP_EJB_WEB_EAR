@@ -34,6 +34,10 @@ Expliquez comment utiliser votre projet.
 ![image](https://github.com/cheikhounagueye/PROJECT_FINETECHAP_EJB_WEB_EAR/assets/20979143/be806f6d-859c-4723-8bf0-a925cd73bf99)
 ![image](https://github.com/cheikhounagueye/PROJECT_FINETECHAP_EJB_WEB_EAR/assets/20979143/dbeae6cd-9ef3-4fbc-b7bc-c57d3298fc17)
 ![image](https://github.com/cheikhounagueye/PROJECT_FINETECHAP_EJB_WEB_EAR/assets/20979143/1030100e-0a68-4511-ad95-029886d2100d)
+![image](https://github.com/cheikhounagueye/PROJECT_FINETECHAP_EJB_WEB_EAR/assets/20979143/aac3c5cc-9912-42e9-bcb6-3749db42840e)
+![image](https://github.com/cheikhounagueye/PROJECT_FINETECHAP_EJB_WEB_EAR/assets/20979143/a677ff3e-2423-41e3-9f1f-17153555784a)
+
+
 
 
 
