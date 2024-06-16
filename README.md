@@ -18,16 +18,16 @@ Finetech projet est un projet qui utilise 3 couches à savoir le module EJB ou t
 - Wildfly 32
 - JDK 17
 
-## Configuration
+## Configuration à faire 
 
 - Datasource JNDI dans wildfly 32
 - Persistance Unit
-- PhpMysql
-- Ajout Driver Mysql dans wildfly et la configuration du fichier module.xml
+- PhpMysql ou Container Mysql
+- Ajout du Driver Mysql dans wildfly32 ainsi que la configuration du fichier module.xml
 
 ## Utilisation
 
-Expliquez comment utiliser votre projet.
+
 
 ## Captures d'écran
 ![image](https://github.com/cheikhounagueye/PROJECT_FINETECHAP_EJB_WEB_EAR/assets/20979143/c10f1b15-0297-44cd-9e51-0763bade9511)
