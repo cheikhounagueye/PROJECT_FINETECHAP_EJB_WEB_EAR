@@ -20,9 +20,10 @@ Finetech projet est un projet qui utilise 3 couches à savoir le module EJB ou t
 
 ## Configuration à faire 
 
-- Datasource JNDI dans wildfly 32
+- Ajout d'un utilisateur bootcamp pour le management des Apps du server avec le programme add-user.bat (Windows)
+- déploiement d'un Datasource JNDI dans wildfly 32
 - Persistance Unit
-- PhpMysql ou Container Mysql
+- déploiement de PhpMysql ou Container Mysql
 - Ajout du Driver Mysql dans wildfly32 ainsi que la configuration du fichier module.xml
 
 ## Utilisation
