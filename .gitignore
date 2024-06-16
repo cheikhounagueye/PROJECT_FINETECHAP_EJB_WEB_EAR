@@ -1,0 +1,60 @@
+# Ignorer les fichiers binaires
+
+*.class
+
+*.jar
+
+*.war
+
+*.ear
+
+
+
+# Ignorer les répertoires de build
+
+/bin/
+
+/target/
+
+build/
+
+
+
+# Ignorer les fichiers de configuration IDE
+
+*.iml
+
+.idea/
+
+*.swp
+
+*.swo
+
+*.DS_Store
+
+
+
+# Ignorer les fichiers de logs
+
+*.log
+
+
+
+# Ignorer les dépendances téléchargées par Maven
+
+.m2/
+
+
+
+# Ignorer les fichiers de configuration système
+
+Thumbs.db
+
+.DS_Store
+
+
+
+# Ignorer les fichiers de déploiement
+
+*.deploy*
+
