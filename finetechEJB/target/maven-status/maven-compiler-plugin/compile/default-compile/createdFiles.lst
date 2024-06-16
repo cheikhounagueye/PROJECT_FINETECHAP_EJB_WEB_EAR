@@ -1,0 +1,4 @@
+com\bambafinetech\secuejb\entites\CompteBank.class
+com\bambafinetech\secuejb\entites\User.class
+com\bambafinetech\secuejb\metier\ISecuritySession.class
+com\bambafinetech\secuejb\metier\SecuritySession.class
