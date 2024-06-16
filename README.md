@@ -6,12 +6,12 @@ Finetech projet est un projet qui utilise 3 couches à savoir le module EJB ou t
 
 ## Fonctionnalités
 
-- Inscription 1
-- Connexion 2
-- Création Compte avec solde Initial 3
-- Verser Montant dans le compte
-- retirer montant
-- Virement entre 2 comptes à travers leurs codes qui représentent le numéro du compte
+- 1- Inscription 
+- 2- Connexion 
+- 3- Création Compte avec solde Initial 3
+- 4- Verser Montant dans le compte
+- 5- retirer montant
+- 6- Virement entre 2 comptes à travers leurs codes qui représentent le numéro du compte
 
 ## Dépéndances
 
